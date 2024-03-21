@@ -37,7 +37,7 @@ margin: 0 auto;
     color: var(--verde);
 }
 
-.botão{
+.botao{
     font-family: "Crakra Petch", sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
@@ -48,9 +48,9 @@ margin: 0 auto;
     align-items: center;
     width: 100%;
     border-bottom: 4px solid var(--botão-ativo);
-    border-left: 4px solid var(--botão-ativo);
-    border-right: 4px solid var(--botão-ativo);
-    border-top: none;
+        border-left: 4px solid var(--botão-ativo);
+        border-right: 4px solid var(--botão-ativo);
+        border-top: none;
 }
 
 .botao:first-child{
